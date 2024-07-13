@@ -103,7 +103,7 @@ Students will use the AWS CLI to perform basic operations with Amazon S3, EC2, a
    ```
 
 ### Submission:
-Students should submit a document containing the following:
+Students should submit a SINGLE PDF document containing the following:
 1. The output of each command executed during the hands-on task.
 2. Screenshots of the AWS Management Console showing the S3 bucket, EC2 instance, and IAM user at various stages.
 

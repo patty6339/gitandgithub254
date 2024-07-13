@@ -1,4 +1,4 @@
-Here are the questions with multiple-choice options added:
+## Quiz: Git and GitHub
 
 ### 1. What is the difference between Git and GitHub?
 a. Git is a web-based platform for version control, and GitHub is a command-line tool for tracking changes in source code.  
